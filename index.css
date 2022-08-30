@@ -1,0 +1,77 @@
+body {
+
+}
+
+header {
+    background-color: white;
+    height: 300px;
+    width: 100%;
+    margin: 5pt 5pt;
+    border: 5pt solid black;
+}
+
+#shape1 {
+    background-color: blueviolet;
+    height: 200px;
+    width: 5%;
+    position: relative;
+    top: 90px;
+    left: 5px;
+}
+
+#shape2 {
+background-color: green;
+height: 280px;
+width: 35%;
+position: absolute;
+top: 25px;
+left: 135px;
+}
+
+#shape3 {
+    background-color: rgb(54, 216, 216);
+    height: 280px;
+    width: 280px;
+    border-radius: 50%;
+    position: relative;
+    top:  -190px;
+    left: 650px;
+
+    
+}
+
+
+
+main {
+    background-color: white;
+    height: 300px;
+    width: 100%;
+    margin: 5pt 5pt;
+    border: 5pt dotted black;
+
+}
+
+h2 {
+    background-color: rgba(255, 239, 148, 0.97);
+    height: 240px;
+    width: 1200px;
+    margin: 30px 65px;
+    box-shadow: 5px 5px 5px 0px black ;
+}
+
+
+
+footer {
+    height: 300px;
+    width: 60%;
+    margin: 0 auto;
+    border: 2pt solid black;
+}
+ h1 {
+    font-size: 45pt;
+    color: black;
+    margin: 15%;
+    text-align: center;
+    letter-spacing: 5pt;
+    
+ }
